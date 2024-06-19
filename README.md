@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hola, soy Pablo Figueroa
 
-<!--
-**pablofsj/pablofsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web motivado y apasionado por iniciar una carrera en tecnologías de la información (TI). Mi experiencia previa ha sido en el servicio público y emprendimientos personales, pero he enfocado mi formación actual en desarrollo web.
+En 2020, completé un Bootcamp de Front-end en Coding Dojo, donde adquirí habilidades en JavaScript, Vue.js, CSS, Firebase y Git. También utilicé Bootstrap para crear interfaces web responsivas.
+Recientemente, finalicé un Bootcamp de Desafío Latam en desarrollo Fullstack. Aquí profundicé en Node.js, desarrollando aplicaciones del lado del servidor y realizando operaciones CRUD. Aprendí a crear y consumir API REST, gestionar dependencias con npm, y manejar bases de datos SQL con PostgreSQL. Además, usé Express.js, Sequelize y JWT para autenticación y autorización de usuarios.
+Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordial, empático, y deseo contribuir y aprender en un entorno profesional. Estoy entusiasmado por aplicar mis conocimientos en un equipo donde pueda seguir creciendo y aportando valor.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Some technologies I use:
+
+	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+ 
+
+## 🌐 Contáctame
+
+- and know a litle more about my work in [linkedIn](https://www.linkedin.com/in/pablofsj/)
+
+
+## 📈   Some of my stats are:
+
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsj" />
+</p>
+<p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=pablofsj" />
+</p>
+
