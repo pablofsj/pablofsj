@@ -41,7 +41,7 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Y conoce un poco de mis experiencias en :[link](https://www.linkedin.com/in/pablofsj/)
+Y conoce un poco de mis experiencias en [/pablofsj](https://www.linkedin.com/in/pablofsj/)
 
 
 
