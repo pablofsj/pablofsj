@@ -7,7 +7,7 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 
 
 
-# 💻 Algunas tecnologías que uso:
+## 💻 Algunas tecnologías que uso:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -28,7 +28,7 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 
 
 
-# 🕹 Lo que juego:
+## 🕹 Lo que juego:
 
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
@@ -41,12 +41,9 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 Y conoce un poco de mis experiencias en [linkedIn](https://www.linkedin.com/in/pablofsj/)
 
 
-  
 
-## 📈   Some of my stats are:
+## 📈   Algunas stats:
 
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsj" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
