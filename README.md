@@ -6,6 +6,7 @@ Recientemente, finalicé un Bootcamp de Desafío Latam en desarrollo Fullstack. 
 Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordial, empático, y deseo contribuir y aprender en un entorno profesional. Estoy entusiasmado por aplicar mis conocimientos en un equipo donde pueda seguir creciendo y aportando valor.
 
 
+
 # 💻 Algunas tecnologías que uso:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -26,7 +27,8 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
-# 💻 Lo que juego:
+
+# 🕹 Lo que juego:
 
 ![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 ![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)
@@ -36,7 +38,7 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 ## 🌐 Contáctame
 
 - Y conoce un poco de mis experiencias en [linkedIn](https://www.linkedin.com/in/pablofsj/)
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![figueroapabloignacio@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
@@ -47,7 +49,5 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsj" />
 </p>
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=pablofsj" />
-</p>
+
 
