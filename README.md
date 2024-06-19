@@ -48,4 +48,6 @@ Y conoce un poco de mis experiencias en [linkedIn](https://www.linkedin.com/in/p
 
 ![pablofsj GitHub stats](https://github-readme-stats.vercel.app/api?username=pablofsj&theme=dark&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsj&theme=dark&show_icons=true)
+
 
