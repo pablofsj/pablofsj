@@ -40,13 +40,12 @@ Estoy abierto a oportunidades laborales que requieran mis habilidades. Soy cordi
 ## 🌐 Contáctame
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-Y conoce un poco de mis experiencias en [linkedIn](https://www.linkedin.com/in/pablofsj/)
+
+Y conoce un poco de mis experiencias en :[link](https://www.linkedin.com/in/pablofsj/)
 
 
 
 ## 📈   Algunas stats:
-
-![pablofsj GitHub stats](https://github-readme-stats.vercel.app/api?username=pablofsj&theme=dark&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablofsj&theme=aura&show_icons=true)
 
